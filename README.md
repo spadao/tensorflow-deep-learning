@@ -51,7 +51,7 @@ Key:
 | 07 | [Milestone Project 1: Food Vision 🍔👁](https://github.com/mrdbourke/tensorflow-deep-learning/blob/main/07_food_vision_milestone_project_1.ipynb), [Template (your challenge)](https://github.com/mrdbourke/tensorflow-deep-learning/blob/main/extras/TEMPLATE_07_food_vision_milestone_project_1.ipynb) | [`feature_extraction_mixed_precision_efficientnet_model`](https://storage.googleapis.com/ztm_tf_course/food_vision/07_efficientnetb0_feature_extract_model_mixed_precision.zip), [`fine_tuned_mixed_precision_efficientnet_model`](https://storage.googleapis.com/ztm_tf_course/food_vision/07_efficientnetb0_fine_tuned_101_classes_mixed_precision.zip) | [Go to exercises & extra-curriculum](https://github.com/mrdbourke/tensorflow-deep-learning#-07-milestone-project-1--food-vision-big-exercises) | [Go to slides](https://github.com/mrdbourke/tensorflow-deep-learning/blob/main/slides/07_milestone_project_1_food_vision.pdf) |
 | 08 | [TensorFlow NLP Fundamentals](https://github.com/mrdbourke/tensorflow-deep-learning/blob/main/08_introduction_to_nlp_in_tensorflow.ipynb) | [`diaster_or_no_diaster_tweets`](https://storage.googleapis.com/ztm_tf_course/nlp_getting_started.zip), [`USE_feature_extractor_model`](https://storage.googleapis.com/ztm_tf_course/08_model_6_USE_feature_extractor.zip) | [Go to exercises & extra-curriculum](https://github.com/mrdbourke/tensorflow-deep-learning#-08-introduction-to-nlp-natural-language-processing-in-tensorflow-exercises)  | [Go to slides](https://github.com/mrdbourke/tensorflow-deep-learning/blob/main/slides/08_natural_language_processing_in_tensorflow.pdf) |
 | 09 | [Milestone Project 2: SkimLit 📄🔥](https://github.com/mrdbourke/tensorflow-deep-learning/blob/main/09_SkimLit_nlp_milestone_project_2.ipynb) | [`pubmed_RCT_200k_dataset`](https://github.com/Franck-Dernoncourt/pubmed-rct.git), [`skimlit_tribrid_model`](https://storage.googleapis.com/ztm_tf_course/skimlit/skimlit_tribrid_model.zip) | [Go to exercises & extra-curriculum](https://github.com/mrdbourke/tensorflow-deep-learning#-09-milestone-project-2-skimlit--exercises) | [Go to slides](https://github.com/mrdbourke/tensorflow-deep-learning/blob/main/slides/09_milestone_project_2_skimlit.pdf) |
-| 10 | TensorFlow Time Series Fundamentals & Milestone Project 3 (coming soon) | | | |
+| 10 | [TensorFlow Time Series Fundamentals & Milestone Project 3: BitPredict 💰📈 (videos coming soon)](https://github.com/mrdbourke/tensorflow-deep-learning/blob/main/10_time_series_forecasting_in_tensorflow.ipynb) | | | |
 
 ## Course structure
 
@@ -348,7 +348,7 @@ Contact [Daniel Bourke](mailto:daniel@mrdbourke.com) or [add a discussion](https
 
 ## Status
 
-As of: 24 May 2021 - time series materials inbound!
+As of: 28 May 2021 - time series materials inbound!
 
 * **Currently:** making time series materials - https://github.com/mrdbourke/tensorflow-deep-learning/blob/main/10_time_series_forecasting_in_tensorflow.ipynb
 * **Video count:** 263/~280+, aiming to do ~10 videos per day during recording sessions
@@ -375,6 +375,8 @@ geez... I forgot how much there was still to go... classic project planning
 * Upload solutions for exercises (probably livestream the creation of these after course launch)
   
 ## Log
+* 28 May 2021 - added future forecasts, added ensemble model, added prediction intervals to time series notebook
+* 25 May 2021 - added multivariate time series to time series notebook, fix LSTM model, next we add TensorFlow windowing/experimenting with window sizes
 * 24 May 2021 - fixed broken preprocessing function in time series notebook, LSTM model is broken, more material to come
 * 20 May 2021 - more time series material creation
 * 19 May 2021 - more time series material creation, streaming much of it live on Twitch - https://twitch.tv/mrdbourke
