@@ -4,17 +4,11 @@ All of the course materials for the [Zero to Mastery Deep Learning with TensorFl
 
 This course will teach you foundations of deep learning and TensorFlow as well as prepare you to pass the TensorFlow Developer Certification exam (optional).
 
-Before signing up to the full course, you can watch the first 14-hours of videos on YouTube in a two part series:
-* [Part 1](https://youtu.be/tpCFfeUEGs8) contains notebooks 00, 01 and some of 02 (see below)
-* [Part 2](https://youtu.be/ZUKz4125WNI) starts where part 1 left off and finishes the rest of 02
-
-Videos going through the rest of the notebooks (03 - 10) are available in [the full course](https://dbourke.link/ZTMTFcourse).
-
-### Got questions about the course?
-
-Check out the [livestream Q&A celebrating the course launch on YouTube](https://youtu.be/rqAqcFcfeK8).
-
-Otherwise, many of them might be answered below.
+## Important links
+* 🎥 Watch the [first 14-hours of the course on YouTube](https://dbourke.link/tfpart1part2) (notebooks 00, 01, 02)
+* 📖 Read the [beautiful online book version of the course](https://dev.mrdbourke.com/tensorflow-deep-learning/)
+* 💻 [Sign up](https://dbourke.link/ZTMTFcourse) to the full course on the Zero to Mastery Academy (videos for notebooks 03-10)
+* 🤔 Got questions about the course? Check out the [livestream Q&A for the course launch](https://youtu.be/rqAqcFcfeK8)
 
 ## Contents of this page
 - [Course materials](https://github.com/mrdbourke/tensorflow-deep-learning#course-materials) (everything you'll need for completing the course)
@@ -23,7 +17,7 @@ Otherwise, many of them might be answered below.
 - [Prerequisites](https://github.com/mrdbourke/tensorflow-deep-learning#prerequisites) (what skills you'll need to do this course)
 - [Exercises & Extra-curriculum](https://github.com/mrdbourke/tensorflow-deep-learning#-exercises---extra-curriculum) (challenges to practice what you've learned and resources to learn more)
 - [Ask a question](https://github.com/mrdbourke/tensorflow-deep-learning#ask-questions) (like to know more? go here)
-- [Status/TODO](https://github.com/mrdbourke/tensorflow-deep-learning#status) (there's still more to come!)
+- [Status](https://github.com/mrdbourke/tensorflow-deep-learning#status)
 - [Log](https://github.com/mrdbourke/tensorflow-deep-learning#log) (updates, changes and progress)
 
 ## Course materials
@@ -51,7 +45,8 @@ Key:
 | 07 | [Milestone Project 1: Food Vision 🍔👁](https://github.com/mrdbourke/tensorflow-deep-learning/blob/main/07_food_vision_milestone_project_1.ipynb), [Template (your challenge)](https://github.com/mrdbourke/tensorflow-deep-learning/blob/main/extras/TEMPLATE_07_food_vision_milestone_project_1.ipynb) | [`feature_extraction_mixed_precision_efficientnet_model`](https://storage.googleapis.com/ztm_tf_course/food_vision/07_efficientnetb0_feature_extract_model_mixed_precision.zip), [`fine_tuned_mixed_precision_efficientnet_model`](https://storage.googleapis.com/ztm_tf_course/food_vision/07_efficientnetb0_fine_tuned_101_classes_mixed_precision.zip) | [Go to exercises & extra-curriculum](https://github.com/mrdbourke/tensorflow-deep-learning#-07-milestone-project-1--food-vision-big-exercises) | [Go to slides](https://github.com/mrdbourke/tensorflow-deep-learning/blob/main/slides/07_milestone_project_1_food_vision.pdf) |
 | 08 | [TensorFlow NLP Fundamentals](https://github.com/mrdbourke/tensorflow-deep-learning/blob/main/08_introduction_to_nlp_in_tensorflow.ipynb) | [`diaster_or_no_diaster_tweets`](https://storage.googleapis.com/ztm_tf_course/nlp_getting_started.zip), [`USE_feature_extractor_model`](https://storage.googleapis.com/ztm_tf_course/08_model_6_USE_feature_extractor.zip) | [Go to exercises & extra-curriculum](https://github.com/mrdbourke/tensorflow-deep-learning#-08-introduction-to-nlp-natural-language-processing-in-tensorflow-exercises)  | [Go to slides](https://github.com/mrdbourke/tensorflow-deep-learning/blob/main/slides/08_natural_language_processing_in_tensorflow.pdf) |
 | 09 | [Milestone Project 2: SkimLit 📄🔥](https://github.com/mrdbourke/tensorflow-deep-learning/blob/main/09_SkimLit_nlp_milestone_project_2.ipynb) | [`pubmed_RCT_200k_dataset`](https://github.com/Franck-Dernoncourt/pubmed-rct.git), [`skimlit_tribrid_model`](https://storage.googleapis.com/ztm_tf_course/skimlit/skimlit_tribrid_model.zip) | [Go to exercises & extra-curriculum](https://github.com/mrdbourke/tensorflow-deep-learning#-09-milestone-project-2-skimlit--exercises) | [Go to slides](https://github.com/mrdbourke/tensorflow-deep-learning/blob/main/slides/09_milestone_project_2_skimlit.pdf) |
-| 10 | [TensorFlow Time Series Fundamentals & Milestone Project 3: BitPredict 💰📈 (videos coming soon)](https://github.com/mrdbourke/tensorflow-deep-learning/blob/main/10_time_series_forecasting_in_tensorflow.ipynb) | | | |
+| 10 | [TensorFlow Time Series Fundamentals & Milestone Project 3: BitPredict 💰📈 (videos coming soon)](https://github.com/mrdbourke/tensorflow-deep-learning/blob/main/10_time_series_forecasting_in_tensorflow.ipynb) | [`bitcoin_price_data_USD_2013-10-01_2021-05-18.csv`](https://raw.githubusercontent.com/mrdbourke/tensorflow-deep-learning/main/extras/BTC_USD_2013-10-01_2021-05-18-CoinDesk.csv) | [Go to exercises & extra-curriculum](https://github.com/mrdbourke/tensorflow-deep-learning/blob/main/README.md#-10-time-series-fundamentals-and-milestone-project-3-bitpredict--exercises) | [Go to slides](https://github.com/mrdbourke/tensorflow-deep-learning/blob/main/slides/10_time_series_fundamentals_and_milestone_project_3_bitpredict.pdf) |
+| 11 | [Preparing to Pass the TensorFlow Developer Certification Exam](https://github.com/mrdbourke/tensorflow-deep-learning/blob/main/11_passing_the_tensorflow_developer_certification_exam.md) | | [Go to exercises & extra-curriculum](https://github.com/mrdbourke/tensorflow-deep-learning/blob/main/README.md#-11-passing-the-tensorflow-developer-certification-exercises) | [Go to slides](https://github.com/mrdbourke/tensorflow-deep-learning/blob/main/slides/11_passing_the_tensorflow_developer_certification_exam.pdf) |
 
 ## Course structure
 
@@ -98,7 +93,7 @@ To prevent the course from being 100+ hours (deep learning is a broad field), va
 
 ---
 
-### 🛠 00 TensorFlow Fundamentals Exercises
+### 🛠 00. TensorFlow Fundamentals Exercises
 
 1. Create a vector, scalar, matrix and tensor with values of your choosing using `tf.constant()`.
 2. Find the shape, rank and size of the tensors you created in 1.
@@ -111,7 +106,7 @@ To prevent the course from being 100+ hours (deep learning is a broad field), va
 9. Create a tensor with shape `[10]` using your own choice of values, then find the index which has the maximum value.
 10. One-hot encode the tensor you created in 9.
 
-### 📖 00 TensorFlow Fundamentals Extra-curriculum 
+### 📖 00. TensorFlow Fundamentals Extra-curriculum 
 
 * Read through the [list of TensorFlow Python APIs](https://www.tensorflow.org/api_docs/python/), pick one we haven't gone through in this notebook, reverse engineer it (write out the documentation code for yourself) and figure out what it does.
 * Try to create a series of tensor functions to calculate your most recent grocery bill (it's okay if you don't use the names of the items, just the price in numerical form).
@@ -122,7 +117,7 @@ To prevent the course from being 100+ hours (deep learning is a broad field), va
 
 ---
 
-### 🛠 01 Neural network regression with TensorFlow Exercises
+### 🛠 01. Neural network regression with TensorFlow Exercises
 
 1. Create your own regression dataset (or make the one we created in "Create data to view and fit" bigger) and build fit a model to it.
 2. Try building a neural network with 4 Dense layers and fitting it to your own regression dataset, how does it perform?
@@ -133,7 +128,7 @@ To prevent the course from being 100+ hours (deep learning is a broad field), va
   * What happens if you train for longer (say 300 epochs instead of 200)? 
 4. Import the [Boston pricing dataset](https://www.tensorflow.org/api_docs/python/tf/keras/datasets/boston_housing/load_data) from TensorFlow [`tf.keras.datasets`](https://www.tensorflow.org/api_docs/python/tf/keras/datasets) and model it.
 
-### 📖 01 Neural network regression with TensorFlow Extra-curriculum
+### 📖 01. Neural network regression with TensorFlow Extra-curriculum
 
 * [MIT introduction deep learning lecture 1](https://youtu.be/njKP3FqW3Sk) - gives a great overview of what's happening behind all of the code we're running.
 * Reading: 1-hour of [Chapter 1 of Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/chap1.html) by Michael Nielson - a great in-depth and hands-on example of the intuition behind neural networks.
@@ -141,19 +136,19 @@ To prevent the course from being 100+ hours (deep learning is a broad field), va
 
 ---
 
-### 🛠 02 Neural network classification with TensorFlow Exercises
+### 🛠 02. Neural network classification with TensorFlow Exercises
 
 1. Play with neural networks in the [TensorFlow Playground](https://playground.tensorflow.org/) for 10-minutes. Especially try different values of the learning, what happens when you decrease it? What happens when you increase it?
 2. Replicate the model pictured in the [TensorFlow Playground diagram](https://playground.tensorflow.org/#activation=relu&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.001&regularizationRate=0&noise=0&networkShape=6,6,6,6,6&seed=0.51287&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false&regularization_hide=true&discretize_hide=true&regularizationRate_hide=true&percTrainData_hide=true&dataset_hide=true&problem_hide=true&noise_hide=true&batchSize_hide=true) below using TensorFlow code. Compile it using the Adam optimizer, binary crossentropy loss and accuracy metric. Once it's compiled check a summary of the model.
 ![tensorflow playground example neural network](https://raw.githubusercontent.com/mrdbourke/tensorflow-deep-learning/main/images/02-tensorflow-playground-replication-exercise.png)
 *Try this network out for yourself on the [TensorFlow Playground website](https://playground.tensorflow.org/#activation=relu&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.001&regularizationRate=0&noise=0&networkShape=6,6,6,6,6&seed=0.51287&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false&regularization_hide=true&discretize_hide=true&regularizationRate_hide=true&percTrainData_hide=true&dataset_hide=true&problem_hide=true&noise_hide=true&batchSize_hide=true). Hint: there are 5 hidden layers but the output layer isn't pictured, you'll have to decide what the output layer should be based on the input data.*
 3. Create a classification dataset using Scikit-Learn's [`make_moons()`](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.make_moons.html) function, visualize it and then build a model to fit it at over 85% accuracy.
-4. Create a function (or write code) to visualize multiple image predictions for the fashion MNIST at the same time. Plot at least three different images and their prediciton labels at the same time. Hint: see the [classifcation tutorial in the TensorFlow documentation](https://www.tensorflow.org/tutorials/keras/classification) for ideas.
+4. Train a model to get 88%+ accuracy on the fashion MNIST test set. Plot a confusion matrix to see the results after.
 5. Recreate [TensorFlow's](https://www.tensorflow.org/api_docs/python/tf/keras/activations/softmax) [softmax activation function](https://en.wikipedia.org/wiki/Softmax_function) in your own code. Make sure it can accept a tensor and return that tensor after having the softmax function applied to it.
-6. Train a model to get 88%+ accuracy on the fashion MNIST test set. Plot a confusion matrix to see the results after.
+6. Create a function (or write code) to visualize multiple image predictions for the fashion MNIST at the same time. Plot at least three different images and their prediciton labels at the same time. Hint: see the [classifcation tutorial in the TensorFlow documentation](https://www.tensorflow.org/tutorials/keras/classification) for ideas.
 7. Make a function to show an image of a certain class of the fashion MNIST dataset and make a prediction on it. For example, plot 3 images of the `T-shirt` class with their predictions.
 
-### 📖 02 Neural network classification with TensorFlow Extra-curriculum
+### 📖 02. Neural network classification with TensorFlow Extra-curriculum
 
 * Watch 3Blue1Brown's neural networks video 2: [*Gradient descent, how neural networks learn*](https://www.youtube.com/watch?v=IHZwWFHWa-w). After you're done, write 100 words about what you've learned.
   * If you haven't already, watch video 1: [*But what is a Neural Network?*](https://youtu.be/aircAruvnKk). Note the activation function they talk about at the end.
@@ -164,7 +159,7 @@ To prevent the course from being 100+ hours (deep learning is a broad field), va
 
 ---
 
-### 🛠 03 Computer vision & convolutional neural networks in TensorFlow Exercises
+### 🛠 03. Computer vision & convolutional neural networks in TensorFlow Exercises
 
 1. Spend 20-minutes reading and interacting with the [CNN explainer website](https://poloclub.github.io/cnn-explainer/). 
  * What are the key terms? e.g. explain convolution in your own words, pooling in your own words
@@ -175,7 +170,7 @@ To prevent the course from being 100+ hours (deep learning is a broad field), va
 3. Take 10 photos of two different things and build your own CNN image classifier using the techniques we've built here.
 4. Find an ideal learning rate for a simple convolutional neural network model on your the 10 class dataset.
 
-### 📖 03 Computer vision & convolutional neural networks in TensorFlow Extra-curriculum
+### 📖 03. Computer vision & convolutional neural networks in TensorFlow Extra-curriculum
 
 * **Watch:** [MIT's Introduction to Deep Computer Vision](https://www.youtube.com/watch?v=iaSUYvmCekI&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI&index=3) lecture. This will give you a great intuition behind convolutional neural networks.
 * **Watch:** Deep dive on [mini-batch gradient descent](https://youtu.be/-_4Zi8fCZO4) by deeplearning.ai. If you're still curious about why we use **batches** to train models, this technical overview covers many of the reasons why.
@@ -185,7 +180,7 @@ To prevent the course from being 100+ hours (deep learning is a broad field), va
 
 ---
 
-### 🛠 04 Transfer Learning in TensorFlow Part 1: Feature Extraction Exercises
+### 🛠 04. Transfer Learning in TensorFlow Part 1: Feature Extraction Exercises
 
 1. Build and fit a model using the same data we have here but with the MobileNetV2 architecture feature extraction ([`mobilenet_v2_100_224/feature_vector`](https://tfhub.dev/google/imagenet/mobilenet_v2_100_224/feature_vector/4)) from TensorFlow Hub, how does it perform compared to our other models?
 2. Name 3 different image classification models on TensorFlow Hub that we haven't used.
@@ -195,7 +190,7 @@ To prevent the course from being 100+ hours (deep learning is a broad field), va
 4. What is the current best performing model on ImageNet?
   * Hint: you might want to check [sotabench.com](https://www.sotabench.com) for this.
 
-### 📖 04 Transfer Learning in TensorFlow Part 1: Feature Extraction Extra-curriculum
+### 📖 04. Transfer Learning in TensorFlow Part 1: Feature Extraction Extra-curriculum
 
 * Read through the [TensorFlow Transfer Learning Guide](https://www.tensorflow.org/tutorials/images/transfer_learning) and define the main two types of transfer learning in your own words.
 * Go through the [Transfer Learning with TensorFlow Hub tutorial](https://www.tensorflow.org/tutorials/images/transfer_learning_with_hub) on the TensorFlow website and rewrite all of the code yourself into a new Google Colab notebook making comments about what each step does along the way.
@@ -204,14 +199,14 @@ To prevent the course from being 100+ hours (deep learning is a broad field), va
 
 ---
 
-### 🛠 05 Transfer Learning in TensorFlow Part 2: Fine-tuning Exercises
+### 🛠 05. Transfer Learning in TensorFlow Part 2: Fine-tuning Exercises
 
-1. Write a function to visualize an image from any dataset (train or test file) and any class (e.g. "steak", "pizza"... etc), visualize it and make a prediction on it using a trained model.
-2. Use feature-extraction to train a transfer learning model on 10% of the Food Vision data for 10 epochs using [`tf.keras.applications.EfficientNetB0`](https://www.tensorflow.org/api_docs/python/tf/keras/applications/EfficientNetB0) as the base model. Use the [`ModelCheckpoint`](https://www.tensorflow.org/api_docs/python/tf/keras/callbacks/ModelCheckpoint) callback to save the weights to file.
-3. Fine-tune the last 20 layers of the base model you trained in 2 for another 10 epochs. How did it go?
-4. Fine-tune the last 30 layers of the base model you trained in 2 for another 10 epochs. How did it go?
+1. Use feature-extraction to train a transfer learning model on 10% of the Food Vision data for 10 epochs using [`tf.keras.applications.EfficientNetB0`](https://www.tensorflow.org/api_docs/python/tf/keras/applications/EfficientNetB0) as the base model. Use the [`ModelCheckpoint`](https://www.tensorflow.org/api_docs/python/tf/keras/callbacks/ModelCheckpoint) callback to save the weights to file.
+2. Fine-tune the last 20 layers of the base model you trained in 2 for another 10 epochs. How did it go?
+3. Fine-tune the last 30 layers of the base model you trained in 2 for another 10 epochs. How did it go?
+4. Write a function to visualize an image from any dataset (train or test file) and any class (e.g. "steak", "pizza"... etc), visualize it and make a prediction on it using a trained model.
 
-### 📖 05 Transfer Learning in TensorFlow Part 2: Fine-tuning Extra-curriculum
+### 📖 05. Transfer Learning in TensorFlow Part 2: Fine-tuning Extra-curriculum
 
 * Read the [documentation on data augmentation](https://www.tensorflow.org/tutorials/images/data_augmentation) in TensorFlow.
 * Read the [ULMFit paper](https://arxiv.org/abs/1801.06146) (technical) for an introduction to the concept of freezing and unfreezing different layers.
@@ -220,7 +215,7 @@ To prevent the course from being 100+ hours (deep learning is a broad field), va
   
 ---
 
-### 🛠 06 Transfer Learning in TensorFlow Part 3: Scaling-up Exercises
+### 🛠 06. Transfer Learning in TensorFlow Part 3: Scaling-up Exercises
 
 1. Take 3 of your own photos of food and use the trained model to make predictions on them, share your predictions with the other students in Discord and show off your Food Vision model 🍔👁.
 2. Train a feature-extraction transfer learning model for 10 epochs on the same data and compare its performance versus a model which used feature extraction for 5 epochs and fine-tuning for 5 epochs (like we've used in this notebook). Which method is better?
@@ -229,13 +224,13 @@ To prevent the course from being 100+ hours (deep learning is a broad field), va
   * Does it effect the accuracy or performance of our model? 
   * What's the advatanges of using `mixed_precision` training?
 
-### 📖 06 Transfer Learning in TensorFlow Part 3: Scaling-up Extra-curriculum
+### 📖 06. Transfer Learning in TensorFlow Part 3: Scaling-up Extra-curriculum
 * Spend 15-minutes reading up on the [EarlyStopping callback](https://www.tensorflow.org/api_docs/python/tf/keras/callbacks/EarlyStopping). What does it do? How could we use it in our model training?
 * Spend an hour reading about [Streamlit](https://www.streamlit.io/). What does it do? How might you integrate some of the things we've done in this notebook in a Streamlit app?
 
 ---
 
-### 🛠 07 Milestone Project 1: 🍔👁 Food Vision Big™ Exercises
+### 🛠 07. Milestone Project 1: 🍔👁 Food Vision Big™ Exercises
 
 **Note:** The chief exercise for Milestone Project 1 is to finish the "TODO" sections in the [Milestone Project 1 Template notebook](https://github.com/mrdbourke/tensorflow-deep-learning/blob/main/extras/TEMPLATE_07_food_vision_milestone_project_1.ipynb). After doing so, move onto the following.
 
@@ -248,7 +243,7 @@ To prevent the course from being 100+ hours (deep learning is a broad field), va
 3. Retrain the model (feature extraction and fine-tuning) we trained in this notebook, except this time use [`EfficientNetB4`](https://www.tensorflow.org/api_docs/python/tf/keras/applications/EfficientNetB4) as the base model instead of `EfficientNetB0`. Do you notice an improvement in performance? Does it take longer to train? Are there any tradeoffs to consider?
 4. Name one important benefit of mixed precision training, how does this benefit take place?
 
-### 📖 07 Milestone Project 1: 🍔👁 Food Vision Big™ Extra-curriculum
+### 📖 07. Milestone Project 1: 🍔👁 Food Vision Big™ Extra-curriculum
 
 * Read up on learning rate scheduling and the [learning rate scheduler callback](https://www.tensorflow.org/api_docs/python/tf/keras/callbacks/LearningRateScheduler). What is it? And how might it be helpful to this project?
 * Read up on TensorFlow data loaders ([improving TensorFlow data loading performance](https://www.tensorflow.org/guide/data_performance)). Is there anything we've missed? What methods you keep in mind whenever loading data in TensorFlow? Hint: check the summary at the bottom of the page for a gret round up of ideas.
@@ -256,7 +251,7 @@ To prevent the course from being 100+ hours (deep learning is a broad field), va
 
 ---
 
-### 🛠 08 Introduction to NLP (Natural Language Processing) in TensorFlow Exercises
+### 🛠 08. Introduction to NLP (Natural Language Processing) in TensorFlow Exercises
 1. Rebuild, compile and train `model_1`, `model_2` and `model_5` using the [Keras Sequential API](https://www.tensorflow.org/api_docs/python/tf/keras/Sequential) instead of the Functional API.
 2. Retrain the baseline model with 10% of the training data. How does perform compared to the Universal Sentence Encoder model with 10% of the training data?
 3. Try fine-tuning the TF Hub Universal Sentence Encoder model by setting `training=True` when instantiating it as a Keras layer.
@@ -272,7 +267,7 @@ sentence_encoder_layer = hub.KerasLayer("https://tfhub.dev/google/universal-sent
 5. Combine the ensemble predictions using the majority vote (mode), how does this perform compare to averaging the prediction probabilities of each model?
 6. Make a confusion matrix with the best performing model's predictions on the validation set and the validation ground truth labels.
 
-### 📖 08 Introduction to NLP (Natural Language Processing) in TensorFlow Extra-curriculum
+### 📖 08. Introduction to NLP (Natural Language Processing) in TensorFlow Extra-curriculum
 To practice what you've learned, a good idea would be to spend an hour on 3 of the following (3-hours total, you could through them all if you want) and then write a blog post about what you've learned.
 
 * For an overview of the different problems within NLP and how to solve them read through: 
@@ -296,7 +291,7 @@ To practice what you've learned, a good idea would be to spend an hour on 3 of t
 
 ---
 
-### 🛠 09 Milestone Project 2: SkimLit 📄🔥 Exercises
+### 🛠 09. Milestone Project 2: SkimLit 📄🔥 Exercises
 
 1. Train `model_5` on all of the data in the training dataset for as many epochs until it stops improving. Since this might take a while, you might want to use:
   * [`tf.keras.callbacks.ModelCheckpoint`](https://www.tensorflow.org/api_docs/python/tf/keras/callbacks/ModelCheckpoint) to save the model's best weights only.
@@ -317,11 +312,80 @@ To practice what you've learned, a good idea would be to spend an hour on 3 of t
   * ...
     * You can find your own unstrcutured RCT abstract from PubMed or try this one from: [*Baclofen promotes alcohol abstinence in alcohol dependent cirrhotic patients with hepatitis C virus (HCV) infection*](https://pubmed.ncbi.nlm.nih.gov/22244707/).
 
-### 📖 09 Milestone Project 2: SkimLit 📄🔥 Extra-curriculum
+### 📖 09. Milestone Project 2: SkimLit 📄🔥 Extra-curriculum
 
 * For more on working with text/spaCy, see [spaCy's advanced NLP course](https://course.spacy.io/en/). If you're going to be working on production-level NLP problems, you'll probably end up using spaCy.
 * For another look at how to approach a text classification problem like the one we've just gone through, I'd suggest going through [Google's Machine Learning Course for text classification](https://developers.google.com/machine-learning/guides/text-classification). 
 * Since our dataset has imbalanced classes (as with many real-world datasets), so it might be worth looking into the [TensorFlow guide for different methods to training a model with imbalanced classes](https://www.tensorflow.org/tutorials/structured_data/imbalanced_data).
+
+---
+
+### 🛠 10. Time series fundamentals and Milestone Project 3: BitPredict 💰📈 Exercises
+
+1. Does scaling the data help for univariate/multivariate data? (e.g. getting all of the values between 0 & 1) 
+  * Try doing this for a univariate model (e.g. `model_1`) and a multivariate model (e.g. `model_6`) and see if it effects model training or evaluation results.
+2. Get the most up to date data on Bitcoin, train a model & see how it goes (our data goes up to May 18 2021).
+  * You can download the Bitcoin historical data for free from [coindesk.com/price/bitcoin](https://www.coindesk.com/price/bitcoin) and clicking "Export Data" -> "CSV".
+3. For most of our models we used `WINDOW_SIZE=7`, but is there a better window size?
+  * Setup a series of experiments to find whether or not there's a better window size.
+  * For example, you might train 10 different models with `HORIZON=1` but with window sizes ranging from 2-12.
+4. Create a windowed dataset just like the ones we used for `model_1` using [`tf.keras.preprocessing.timeseries_dataset_from_array()`](https://www.tensorflow.org/api_docs/python/tf/keras/preprocessing/timeseries_dataset_from_array) and retrain `model_1` using the recreated dataset.
+5. For our multivariate modelling experiment, we added the Bitcoin block reward size as an extra feature to make our time series multivariate. 
+  * Are there any other features you think you could add? 
+  * If so, try it out, how do these affect the model?
+6. Make prediction intervals for future forecasts. To do so, one way would be to train an ensemble model on all of the data, make future forecasts with it and calculate the prediction intervals of the ensemble just like we did for `model_8`.
+7. For future predictions, try to make a prediction, retrain a model on the predictions, make a prediction, retrain a model, make a prediction, retrain a model, make a prediction (retrain a model each time a new prediction is made). Plot the results, how do they look compared to the future predictions where a model wasn't retrained for every forecast (`model_9`)?
+8. Throughout this notebook, we've only tried algorithms we've handcrafted ourselves. But it's worth seeing how a purpose built forecasting algorithm goes. 
+  * Try out one of the extra algorithms listed in the modelling experiments part such as:
+    * [Facebook's Kats library](https://github.com/facebookresearch/Kats) - there are many models in here, remember the machine learning practioner's motto: experiment, experiment, experiment.
+    * [LinkedIn's Greykite library](https://github.com/linkedin/greykite)
+
+### 📖 10. Time series fundamentals and Milestone Project 3: BitPredict 💰📈 Extra-curriculum
+
+We've only really scratched the surface with time series forecasting and time series modelling in general. But the good news is, you've got plenty of hands-on coding experience with it already.
+
+If you'd like to dig deeper in to the world of time series, I'd recommend the following:
+
+* [Forecasting: Principles and Practice](https://otexts.com/fpp3/) is an outstanding online textbook which discusses at length many of the most important concepts in time series forecasting. I'd especially recommend reading at least Chapter 1 in full.
+  * I'd definitely recommend at least checking out chapter 1 as well as the chapter on forecasting accuracy measures.
+* 🎥 [Introduction to machine learning and time series](https://youtu.be/wqQKFu41FIw) by Markus Loning goes through different time series problems and how to approach them. It focuses on using the `sktime` library (Scikit-Learn for time series), though the principles are applicable elsewhere.
+* [*Why you should care about the Nate Silver vs. Nassim Taleb Twitter war*](https://towardsdatascience.com/why-you-should-care-about-the-nate-silver-vs-nassim-taleb-twitter-war-a581dce1f5fc) by Isaac Faber is an outstanding discussion insight into the role of uncertainty in the example of election prediction.
+* [TensorFlow time series tutorial](https://www.tensorflow.org/tutorials/structured_data/time_series) - A tutorial on using TensorFlow to forecast weather time series data with TensorFlow.
+* 📕 [*The Black Swan*](https://en.wikipedia.org/wiki/The_Black_Swan:_The_Impact_of_the_Highly_Improbable) by Nassim Nicholas Taleb - Nassim Taleb was a pit trader (a trader who trades on their own behalf) for 25 years, this book compiles many of the lessons he learned from first-hand experience. It changed my whole perspective on our ability to predict. 
+* [*3 facts about time series forecasting that surprise experienced machine learning practitioners*](https://towardsdatascience.com/3-facts-about-time-series-forecasting-that-surprise-experienced-machine-learning-practitioners-69c18ee89387) by Skander Hannachi, Ph.D - time series data is different to other kinds of data, if you've worked on other kinds of machine learning problems before, getting into time series might require some adjustments, Hannachi outlines 3 of the most common.
+* 🎥 World-class lectures by 
+Jordan Kern, watching these will take you from 0 to 1 with time series problems: 
+  * [Time Series Analysis](https://youtu.be/Prpu_U5tKkE) - how to analyse time series data.
+  * [Time Series Modelling](https://www.youtube.com/watch?v=s3XH7fTHMb4) - different techniques for modelling time series data (many of which aren't deep learning).
+
+---
+
+### 🛠 11. Passing the TensorFlow Developer Certification Exercises
+
+**Preparing your brain**
+1. Read through the [TensorFlow Developer Certificate Candidate Handbook](https://www.tensorflow.org/extras/cert/TF_Certificate_Candidate_Handbook.pdf).
+2. Go through the Skills checklist section of the TensorFlow Developer Certification Candidate Handbook and create a notebook which covers all of the skills required, write code for each of these (this notebook can be used as a point of reference during the exam).
+
+![mapping the TensorFlow Developer handbook to code in a notebook](https://raw.githubusercontent.com/mrdbourke/tensorflow-deep-learning/main/images/11-map-the-skills-checklist-to-a-notebook.png)
+*Example of mapping the Skills checklist section of the TensorFlow Developer Certification Candidate handbook to a notebook.*
+
+**Prearing your computer**
+1. Go through the [PyCharm quick start](https://www.jetbrains.com/pycharm/learning-center/) tutorials to make sure you're familiar with PyCharm (the exam uses PyCharm, you can download the free version).
+2. Read through and follow the suggested steps in the [setting up for the TensorFlow Developer Certificate Exam guide](https://www.tensorflow.org/extras/cert/Setting_Up_TF_Developer_Certificate_Exam.pdf).
+3. After going through (2), go into PyCharm and make sure you can train a model in TensorFlow. The model and dataset in the example `image_classification_test.py` [script on GitHub](https://github.com/mrdbourke/tensorflow-deep-learning/blob/main/extras/image_classification_test.py) should be enough. If you can train and save the model in under 5-10 minutes, your computer will be powerful enough to train the models in the exam.
+    - Make sure you've got experience running models locally in PyCharm before taking the exam. Google Colab (what we used through the course) is a little different to PyCharm.
+
+![before taking the TensorFlow Developer certification exam, make sure you can run TensorFlow code in PyCharm on your local machine](https://raw.githubusercontent.com/mrdbourke/tensorflow-deep-learning/main/images/11-getting-example-script-to-run-in-pycharm.png)
+*Before taking the exam make sure you can run TensorFlow code on your local machine in PyCharm. If the [example `image_class_test.py` script](https://github.com/mrdbourke/tensorflow-deep-learning/blob/main/extras/image_classification_test.py) can run completely in under 5-10 minutes on your local machine, your local machine can handle the exam (if not, you can use Google Colab to train, save and download models to submit for the exam).*
+
+### 📖 11. Passing the TensorFlow Developer Certification Extra-curriculum
+
+If you'd like some extra materials to go through to further your skills with TensorFlow and deep learning in general or to prepare more for the exam, I'd highly recommend the following:
+
+* 📄 **Read:** [How I got TensorFlow Developer Certified (and how you can too)](https://www.mrdbourke.com/how-i-got-tensorflow-developer-certified/)
+* 🎥 **Watch:** [How I passed the TensorFlow Developer Certification exam (and how you can too)](https://youtu.be/ya5NwvKafDk)
+* Go through the [TensorFlow in Practice Specialization on Coursera](https://dbourke.link/tfinpractice)
+* Read through the second half of [Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow 2nd Edition](https://amzn.to/3aYexF2)
 
 ## What this course is missing
 
@@ -336,11 +400,13 @@ Here are some of the main topics you might want to look into next:
 
 ## Extensions (possible places to go after the course)
 
-* Deeplearning.AI specializations - https://www.deeplearning.ai
-* Hands-on Machine Learning with Scikit-Learn, Keras and TensorFlow Book (especially the 2nd half) - https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/
-* Full Stack Deep Learning (learn how to turn your models into machine learning-powered applications) - https://fullstackdeeplearning.com
-* fast.ai Curriculum - https://www.fast.ai
-* [Getting Experience](https://www.mrdbourke.com/how-can-a-beginner-data-scientist-like-me-gain-experience/) (read this on how to get experience for a job)
+* [Neural Networks and Deep Learning Book](http://neuralnetworksanddeeplearning.com/) by Michael Nielsen - If the Zero to Mastery TensorFlow for Deep Learning course is top down, this book is bottom up. A fantastic resource to sandwich your knowledge. 
+* [Deeplearning.AI specializations](https://www.deeplearning.ai) - This course focuses on code-first, the deeplearning.ai specializations will teach you what's going on behind the code.
+* [Hands-on Machine Learning with Scikit-Learn, Keras and TensorFlow Book](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) (especially the 2nd half) - Many of the materials in this course were inspired by and guided by the pages of this beautiful text book.
+* [Full Stack Deep Learning](https://fullstackdeeplearning.com) - Learn how to turn your models into machine learning-powered applications.
+* [Made with ML MLOps materials](https://madewithml.com/#mlops) - Similar to Full Stack Deep Learning but comprised into many small lessons around all the pieces of the puzzle (data collection, labelling, deployment and more) required to build a full-stack machine learning-powered application.
+* [fast.ai Curriculum](https://www.fast.ai) - One of the best (and free) AI/deep learning courses online. Enough said.
+* ["How does a beginner data scientist like me gain experience?"](https://www.mrdbourke.com/how-can-a-beginner-data-scientist-like-me-gain-experience/) by Daniel Bourke - Read this on how to get experience for a job after studying online/at unveristy (start the job before you have it).
 
 ## Ask questions
 
@@ -348,33 +414,32 @@ Contact [Daniel Bourke](mailto:daniel@mrdbourke.com) or [add a discussion](https
 
 ## Status
 
-As of: 14 Jun 2021 - time series materials inbound!
+As of: 17 Jul 2021
 
-* **Currently:** making time series materials - https://github.com/mrdbourke/tensorflow-deep-learning/blob/main/10_time_series_forecasting_in_tensorflow.ipynb
-* **Video count:** 263/~280+, aiming to do ~10 videos per day during recording sessions
-* **Finished videos for:** 00, 01, 02, 03, 04, 05, 06, 07, 08, 09
-* **Finished slides for notebooks:** 00, 01, 02, 03, 04, 05, 06, 07, 08, 09
-* **Polished (prepared them for external use) notebooks:** 00, 01, 02, 03, 04, 05, 06, 07, 08, 09 (livestreaming lots of this on Twitch: https://www.twitch.tv/mrdbourke)
-* Finished 10/11 of code notebooks (time series still to come)
-* Video studio setup! ([see the makeshift closet studio](https://raw.githubusercontent.com/mrdbourke/tensorflow-deep-learning/main/images/misc-studio-setup.jpeg))
-* Created GitHub Project page! See a cool Kanban setup here: https://github.com/mrdbourke/tensorflow-deep-learning/projects/1
-* Created GitHub Discussion page! Going to use this for popular QA/course tidbits: https://github.com/mrdbourke/tensorflow-deep-learning/discussions
+Course completed! 🕺
 
-## TODO
-geez... I forgot how much there was still to go... classic project planning
-
-* ✅ Make a GitHub Project for course (see "Projects" tab)
-* ✅ Make a [GitHub Discussions](https://github.com/vercel/vercel/discussions/3874) for course (thank you [Alvaro](https://github.com/alvarobartt))
-* ✅ Polish GitHub readme (what you're reading now) with extra resources: 
-  * data links used in course
-  * extra resources & curriculum
-* 🔜 Upload slides for each section, done for: 00, 01, 02, 03, 04, 05, 06, 07, 08, 09 (see [course materials](https://github.com/mrdbourke/tensorflow-deep-learning#course-materials))
-* 🔜 Upload video notebooks for each section, done for: 00, 01, 02, 03, 04, 05, 06, 07, 08, 09 (see [.video_notebooks/](https://github.com/mrdbourke/tensorflow-deep-learning/tree/main/video_notebooks)) 
-* Make Colab overview video (Colab is the tool we'll be using for the whole course)
-* Make course resource overview video (e.g. how to use this GitHub, Discussions page, exercises, extra-curriculum etc)
-* Upload solutions for exercises (probably livestream the creation of these after course launch)
+Any further updates/changes will be added below. 
   
 ## Log
+* 16 Jul 2021 - added 35 videos to ZTM Academy + Udemy versions of the course for time series and how to pass TensorFlow Developer Certificaiton
+* 10 Jul 2021 - added 29 edited time series videos to ZTM Academy + Udemy versions of the course, more to come soon
+* 07 Jul 2021 - recorded 5 videos for passing TensorFlow Developer Certification exam section - ALL VIDEOS FOR COURSE DONE!!! time to edit/upload! 🎉
+* 06 Jul 2021 - added guide to TensorFlow Certification Exam: https://github.com/mrdbourke/tensorflow-deep-learning/blob/main/11_passing_the_tensorflow_developer_certification_exam.md - going to record videos for it tomorrow
+* 05 Jul 2021 - making materials for TF certification exam (what/why/how)
+* 02 Jul 2021 - FINISHED RECORDING VIDEOS FOR TIME SERIES SECTION!!!!! time to upload
+* 30 Jun 2021 - recorded 12 videos for time series section, total heading past 60 (the biggest section yet), nearly done!!!
+* 29 Jun 2021 - recorded 10 videos for time series section, total heading towards 60
+* 28 Jun 2021 - recorded 10 videos for time series section, the line below says 40 videos total, actually more like 50
+* 26 Jun 2021 - recorded 4 videos for time series section, looks like it'll be about 40 videos total
+* 25 Jun 2021 - recorded 8 videos for time series section + fixed a bunch of typos in time series notebook
+* 24 Jun 2021 - recorded 14 videos for time series section, more to come tomorrow
+* 23 Jun 2021 - finished adding images to time series notebook, now to start video recording
+* 22 Jun 2021 - added a bunch of images to the time series notebook/started making slides
+* 21 Jun 2021 - code for time series notebook is done, now creating slides/images to prepare for recording
+* 19 Jun 2021 - turned curriculum into an online book, you can read it here: https://dev.mrdbourke.com/tensorflow-deep-learning/ 
+* 18 Jun 2021 - add exercises/extra-curriculum/outline to time series notebook
+* 17 Jun 2021 - add annotations for turkey problem and model comparison in time series notebook, next is outline/images
+* 16 Jun 2021 - add annotations for uncertainty and future predictions in time series notebook, next is turkey problem
 * 14 Jun 2021 - add annotations for ensembling, begin on prediction intervals
 * 10 Jun 2021 - finished annotations for N-BEATS algorithm, now onto ensembling/prediction intervals
 * 9 Jun 2021 - add annotations for N-BEATS algorithm implementation for time series notebook
